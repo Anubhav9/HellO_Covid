@@ -1,6 +1,6 @@
 # covid_19
 
-A new Flutter application.
+A tracking developed in Flutter & Dart which gives you information about total number of Covid cases, active, recovered and number of deaths in any country of the world as well as your district(applicable only in India).
 
 ## Getting Started
 
